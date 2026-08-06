@@ -4,5 +4,5 @@ class Solution:
         total = 0
         for i in range(0,count):
             total+=nums[i]
-        excepted = int((0+count)/2*(count+1))
+        excepted = (count+1)*count//2
         return excepted-total
