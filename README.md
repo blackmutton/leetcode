@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/blackmutton/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/blackmutton/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blackmutton/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/blackmutton/leetcode/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
 | ------- |
